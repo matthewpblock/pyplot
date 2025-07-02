@@ -1,6 +1,7 @@
 # P3: Matplotlib and pyplot
 ## Student Name: Matthew Block
-[P3 Assignment Repository](https://github.com/matthewpblock/pyplot)
+[P3 Assignment Repository](https://github.com/matthewpblock/pyplot)  
+Repository contains executed Jupyter Notebook, a version converted to HTML, and requirements.txt file. Completed as part of Web Mining and Applied NLP course for M.S. in Data Analytics.
 
 ## Assignment
 Complete the tasks in the Python Notebook in this repository.
