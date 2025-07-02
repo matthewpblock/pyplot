@@ -12,3 +12,7 @@ Each question is worth two points:
 
 * Data plotted as described by the question (1 pt)
 * Plot contains required elements (title, axis labels, axis titles, legend if required)
+
+## Completion
+Assignment was completed with the assistance of Microsoft CoPilot, executing the notebook within VS Code  
+Notebook coverted to to html using `jupyter nbconvert --to html pyplot/pyplot.ipynb`
